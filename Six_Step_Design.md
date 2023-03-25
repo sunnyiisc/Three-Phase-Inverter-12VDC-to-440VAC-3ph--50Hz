@@ -2,6 +2,7 @@
 We will use a 6 step switching type inverter with 6 switches.
 
 Calucaltions for the design:
+![IMG_2530](https://user-images.githubusercontent.com/47363228/227730933-b4e2199e-3d95-4072-9a8f-2e9438cb796d.jpg)
 
 
 
