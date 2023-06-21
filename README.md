@@ -9,18 +9,18 @@ Type of Inverter: Driven Type
 
 View Design Document [click here](Six_Step_Design.md)
 
-Files: v0p*
+Files: *_v0p*
 
 ------------------
 ## 2. SPWM Design
 
 View Design Document [click here](SPWM_Design.md)
 
-Files: v1p*
+Files: *_v1p*
 
 ------------------
 ## 2. SVPWM Design
 
 View Design Document [click here](SVPWM_Design.md)
 
-Files: v2p*
+Files: *_v2p*
